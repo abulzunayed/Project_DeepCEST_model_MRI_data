@@ -21,3 +21,24 @@ the online image reconstruction of the scanner system to predict the CEST contra
 uncertainty quantification to indicate the trustworthiness of the predictions.
 
 ![image](https://github.com/abulzunayed/Model_DeepCEST/assets/122612945/46539848-4109-4dd0-aa92-95e72ae75005)
+
+Achievable skills
+By implementing this Deep neural Network for DeepCest, I have gathered the following knowledge:
+▪ How to remove NAN values using mask- wise reference indices instead of directly deleting
+elements.
+▪ Detect each of image pixels/voxels values on plan data set in python.
+▪ Visualized the image data on a single plan and manipulate dimension index-wise.
+▪ Plot Histogram
+▪ Remove crazy outliers without deleting matrix dimension/shape.
+▪ Different methods of removing outliers e.g. z-score , I.Q.R , Percentile .
+▪ Create Neural Network Model
+▪ Use and effect of different loss functions (MSE, RMS, GNLL) and optimizers( Adam, GD, SGD).
+▪ Reconstruct prediction image as per target image indices -wise elements.
+▪ Testing and validation (r2-score, mse_error)
+
+Research work:
+Research article Link: https://doi.org/10.1002/mrm.29520
+Data Source: https://github.com/cest-sources/deepCEST
+Supervisor: Prof. Moritz Zaiss
+Create by: Abul Kasem Mohammad Zunayed
+Data: 11/05/2023
