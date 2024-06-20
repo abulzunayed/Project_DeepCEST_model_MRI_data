@@ -22,7 +22,11 @@ uncertainty quantification to indicate the trustworthiness of the predictions.
 
 ![image](https://github.com/abulzunayed/Model_DeepCEST/assets/122612945/46539848-4109-4dd0-aa92-95e72ae75005)
 
+
 ![image](https://github.com/abulzunayed/Project_DeepCEST_model_MRI_data/assets/122612945/4ff35a36-a2ea-4c0b-a54e-439b62711b75)
+
+![image](https://github.com/abulzunayed/Project_DeepCEST_model_MRI_data/assets/122612945/94f4678b-f167-4a4a-a8e0-f82cad071abd)
+
 
 Achievable skills
 By implementing this Deep neural Network for DeepCest, I have gathered the following knowledge:
